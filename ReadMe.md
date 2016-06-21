@@ -99,6 +99,7 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
  > For more info about the Enova MIni-Lab extension (https://github.com/TrifiAmanallah/Mini-Lab-Scratch-Extension)
  
  > For more info about the Mini-Lab using ROS  (http://wiki.ros.org/Mini-Lab)
+ 
  >Moved to ScratchX by Achraf Bouguerra (ash.bouguerra@gmail.com)
  
  
