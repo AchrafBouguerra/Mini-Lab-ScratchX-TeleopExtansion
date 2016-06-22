@@ -12,6 +12,7 @@ It's suitable for research, as a test-bed for the development of indoor applicat
   - Controller :  Intel x86
   - Operating System : Ros
 > For more information about the Mini-lab and a different variety of educational, marketing, healthcare... robots, don't hesitate to  visite [ www.enovarobotics.eu ]. 
+
 ### ScratchX
 ScratchX is a platform that enables people to test experimental functionality built by developers for the visual programming language Scratch.
 ###### What are Scratch Extensions?
