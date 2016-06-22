@@ -168,7 +168,7 @@ $rosrun web_video_server web_video_server
 ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/from%5C.png)
 
 
-> Scource code of the Minilab's Sratch Extension(https://github.com/TrifiAmanallah/Mini-Lab-Scratch-Extension)
+> Scource code of the Minilab's Sratch Extension(https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion)
 
 > Minilab Robot Tutorial  (http://wiki.ros.org/Mini-Lab)
 
