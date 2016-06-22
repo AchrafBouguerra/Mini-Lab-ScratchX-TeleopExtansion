@@ -24,8 +24,8 @@ These easy steps will allow you to upload the mini-lab's extansion in to scratch
 * go to : www.scratchx.org .
 * click on " Open Extension URL "  ( Top right of the page ).
 * past the link: https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Teleop.js "or" https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Short%20Version.js 
- * In the popup dialog box click "I understand, continue".
-* Last step is to simply enjoy.
+* In the popup dialog box click "I understand, continue".
+* Enjoy.
 
 The extansion on ScratchX can be reached automatically as well by clicking one of these two links :
 * The long version : http://scratchx.org/?url=https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Teleop.js 
@@ -68,7 +68,7 @@ This block of extansion, called "GamePad", tests automatically if a gamePad is p
 
 ### Moving the robot :
 After setting up the connection with the robot, either the actuall Mini-lab, or the simulation on gazeboo, we use the [Enova Mini-lab extansion]
-(https://github.com/AchrafBouguerra/Mini-Lab-Scratch-Extension), and the 'GamePad' extansion to have the robot moving.
+(https://github.com/AchrafBouguerra/Mini-Lab-Scratch-Extension), and the 'GamePad' extansion.
 * example :
 
 ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot06.png)
@@ -83,7 +83,7 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
  
  ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot05.png)
  
- * This part holds the role of giving an ,almost, prescise counting about the rotation and direction of your robot whole pressing the controller's button :
+ * This part holds the role of showing the angle of roation used to rotate the robot : :
  
 ![Alternte text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot04.png)
 
@@ -100,7 +100,7 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
  
  > For more info about the Mini-Lab using ROS  (http://wiki.ros.org/Mini-Lab)
  
- >Moved to ScratchX by Achraf Bouguerra (ash.bouguerra@gmail.com)
+ > Moved to ScratchX by Achraf Bouguerra (ash.bouguerra@gmail.com)
  
  
  
