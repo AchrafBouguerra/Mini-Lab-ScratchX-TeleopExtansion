@@ -83,7 +83,7 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
  
  ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot05.png)
  
- * This part holds the role of showing the angle of roation used to rotate the robot : :
+ * This part holds the role of showing the angle of roation used to rotate the robot : 
  
 ![Alternte text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot04.png)
 
