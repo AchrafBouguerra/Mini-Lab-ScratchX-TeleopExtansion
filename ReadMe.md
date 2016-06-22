@@ -69,7 +69,7 @@ This block of extansion, called "GamePad", tests automatically if a gamePad is p
 
 ### Moving the robot :
 After setting up the connection with the robot, either the actuall Mini-lab, or the simulation on gazeboo, we use the [Enova Mini-lab extansion]
-(https://github.com/AchrafBouguerra/Mini-Lab-Scratch-Extension), and the 'GamePad' extansion.
+(https://github.com/TrifiAmanallah/Mini-Lab-Scratch-Extension), and the 'GamePad' extansion.
 * example :
 
 ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot06.png)
