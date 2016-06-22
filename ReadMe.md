@@ -11,9 +11,7 @@ It's suitable for research, as a test-bed for the development of indoor applicat
   - Batteries : 12V/10Ah
   - Controller :  Intel x86
   - Operating System : Ros
-  - 
-> For more information about the Mini-lab and a different variety of educational,marketing, healthcare... robots, don't hesitate to  visite [ www.enovarobotics.eu ]. 
-
+> For more information about the Mini-lab and a different variety of educational, marketing, healthcare... robots, don't hesitate to  visite [ www.enovarobotics.eu ]. 
 ### ScratchX
 ScratchX is a platform that enables people to test experimental functionality built by developers for the visual programming language Scratch.
 ###### What are Scratch Extensions?
@@ -34,7 +32,7 @@ The extansion on ScratchX can be reached automatically as well by clicking one o
 * The short version : http://scratchx.org/?url=https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/Short%20Version.js
 
 ### About this tutorial
-This tutorial will show how to use the Mini-Lab's scratch Extension with the Gazebo simulator.To have the extension working with the actually Minilab Robot, follow the same instructions and specify the wright adress and port.
+This tutorial will show how to use the Mini-Lab's scratch Extension either with Gazebo simulator or the actually Minilab Robot.Follow the same instructions and specify the wright adress and port.
 
 ![Alternate text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot1.png)
 
@@ -55,7 +53,7 @@ $roslaunch minilab_launch minilab_gazebo.launch
 $roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
->N.B: Most of the extension's blocks wont be able to work unless the connection >is succefully established.
+>N.B: Most of the extension's blocks wont be able to work unless the connection is succefully established.
 * (further information on how to do this: http://wiki.ros.org/Mini-Lab/Tutorials )
 
 ### Using the Teleop with Mini-lab :
@@ -90,7 +88,7 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
 ![Alternte text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot04.png)
 
 ### Short version :
- You can access this extansion through the URL "https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Short%20Version.js"
+ You can access this extansion through the URL "https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Short%20Version.js", copy it in ScratchX extension URL,
  where it has just the needed commands to make the Mini-lab move.
  
  ![Alternte text](https://github.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/blob/master/ScreenShots/Screenshot%20from%202016-06-21%2012:49:04.png)
@@ -112,7 +110,6 @@ After setting up the connection with the robot, either the actuall Mini-lab, or 
 
 
  
-
 
 
 
