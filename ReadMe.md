@@ -21,10 +21,10 @@ Scratch extensions make it possible for Scratch to interface with external hardw
 
 ### the Mini-Lab's SratchX Extension: 
 
-These easy steps will allow you to upload the mini-lab's extansion in to scratchX and use it :
+These easy steps will allow you to upload the mini-lab's extansion into scratchX  :
 * go to : www.scratchx.org .
 * click on " Open Extension URL "  ( Top right of the page ).
-* past the link: https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Teleop.js "or" https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Short%20Version.js 
+* paste the link: https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Teleop.js "or" https://rawgit.com/AchrafBouguerra/Mini-Lab-ScratchX-TeleopExtansion/master/Short%20Version.js 
 * In the popup dialog box click "I understand, continue".
 * Enjoy.
 
