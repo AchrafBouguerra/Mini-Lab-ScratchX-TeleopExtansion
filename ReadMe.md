@@ -42,7 +42,7 @@ This tutorial will show how to use the Mini-Lab's scratch Extension either with 
 The extension uses  the ROS JavaScript Library (roslibjs) witch is the core JavaScript library for interacting with ROS from the browser. It uses WebSockets to connect with rosbridge and provides publishing, subscribing, service calls, actionlib, TF, URDF parsing, and other essential ROS functionality.
 So to be able to use the extension you need to have the rosbridge_server package installed on your Robot or your Gazebo's host Computer.
 * Start the roscore command : 
- ```sh
+```sh
  $roscore 
 ```
 * Launch the Minilab's gazebo simulation :
